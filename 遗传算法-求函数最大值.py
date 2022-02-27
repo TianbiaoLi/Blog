@@ -1,3 +1,5 @@
+#python 3.8
+
 import matplotlib.pyplot as plt
 import math
 import random
